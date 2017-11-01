@@ -1,0 +1,2 @@
+zhangjiawei文件夹是爬取张佳玮粉丝API的粉丝信息，其中包括粉丝的个人主页的URL，可以通过URL拼接得到该粉丝的个人主页API的URL。
+zjwfollower文件夹是爬取粉丝个人主页API的爬虫。
